@@ -34,8 +34,3 @@ The project utilizes the **HAM10000 (Human Against Machine with 10000 training i
 -   **Class Expert CNN Development**: Constructing the main classification model that integrates the 'class expert' concept.
 -   **Training and Evaluation with K-Fold**: Implementing cross-validation, training callbacks, and detailed performance reporting.
 
-## Usage
-To run this notebook, ensure you have:
-1.  Access to a Google Colab environment.
-2.  Mounted your Google Drive containing the `HAM.zip` dataset.
-3.  Executed cells sequentially to set up the environment and run the models.
